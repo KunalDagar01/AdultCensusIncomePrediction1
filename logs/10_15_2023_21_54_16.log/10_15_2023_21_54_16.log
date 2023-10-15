@@ -1,0 +1,5 @@
+[ 2023-10-15 21:54:19,059 ] 14 root - INFO - Data Ingestion is started
+[ 2023-10-15 21:54:19,137 ] 18 root - INFO - Saving data
+[ 2023-10-15 21:54:19,278 ] 23 root - INFO - Ingestion success
+[ 2023-10-15 21:54:19,278 ] 24 root - INFO - Training data stored at artifacts\train.csv
+[ 2023-10-15 21:54:19,278 ] 25 root - INFO - Test path stored at artifacts\test.csv

@@ -1,0 +1,7 @@
+setup.py
+AdultCensusIncomePrediction.egg-info/PKG-INFO
+AdultCensusIncomePrediction.egg-info/SOURCES.txt
+AdultCensusIncomePrediction.egg-info/dependency_links.txt
+AdultCensusIncomePrediction.egg-info/requires.txt
+AdultCensusIncomePrediction.egg-info/top_level.txt
+src/__init__.py
